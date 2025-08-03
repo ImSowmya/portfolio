@@ -8,7 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "deploy": "gh-pages -d dist -r https://github.com/ImSowmya/sowmya.github.io.git",
-    "homepage": "https://imsowmya.github.io"
+    "homepage": "https://sowmya.github.io"
   },
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
